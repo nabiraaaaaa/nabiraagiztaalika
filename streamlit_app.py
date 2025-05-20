@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🫧 informatika 🫧")
+st.title("🫧 informatika")
 st.write(
     "latihan informatika bersama pak Hendri."
 )
